@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "깃허브 방문하기"
+    url: https://github.com/Limdongdang
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Toy Project"
+    url: /year-archive/
+  - title: "Sample Collections"
+    url: /collection-archive/
