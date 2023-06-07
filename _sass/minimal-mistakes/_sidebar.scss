@@ -128,7 +128,9 @@
   height: 36px;
 
   @include breakpoint($large) {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: auto;
     height: auto;
   }
@@ -150,6 +152,7 @@
   padding-left: 15px;
   padding-right: 25px;
   line-height: 1;
+  text-align: center;
 
   @include breakpoint($large) {
     display: block;
@@ -207,7 +210,9 @@
   }
 
   @include breakpoint($large) {
-    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   button {
