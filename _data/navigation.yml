@@ -5,6 +5,6 @@ main:
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Toy Project"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
+    url: https://github.com/Limdongdang/Toy-Project
+  - title: "운영 웹페이지"
+    url: 

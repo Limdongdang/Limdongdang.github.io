@@ -544,7 +544,7 @@
     font-weight: bold;
     line-height: 1.5;
     border-bottom: 1px solid $border-color;
-
+    font-size : 1.5em;
     &:hover {
       color: $text-color;
     }
@@ -553,6 +553,7 @@
   li ul > li a {
     padding-left: 1.25rem;
     font-weight: normal;
+    font-size : 1.5em;
   }
 
   li ul li ul > li a {

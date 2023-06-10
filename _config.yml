@@ -107,12 +107,12 @@ author:
   name             : "Limdong"
   avatar           : "/assets/images/duck.png"
   bio              : "개발 공부 블로그"
-  location         : "Korea"
-  email            :
+  location         : # "Korea"
+  email            : dio8620@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:dio8620@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
