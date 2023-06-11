@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/duck.png"
   bio              : "개발 공부 블로그"
   location         : # "Korea"
-  email            : dio8620@naver.com
+  email            : # dio8620@naver.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,10 +124,10 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/Limdongdang"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/donghyeon5038/"
 
 # Site Footer
 footer:
@@ -290,4 +290,6 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "sidebar-category"
 

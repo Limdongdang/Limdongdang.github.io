@@ -1,10 +1,22 @@
 # main links
 main:
-  - title: "깃허브 방문하기"
-    url: https://github.com/Limdongdang
+  # - title: "깃허브 방문하기"
+  #   url: https://github.com/Limdongdang
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Toy Project"
     url: https://github.com/Limdongdang/Toy-Project
   - title: "운영 웹페이지"
     url: 
+
+sidebar-category:
+  - title: Web
+    children:
+      # - title: "##"
+      #   url: /web
+      - title: "Web Security"
+        url: /security
+      # - title: "카테고리 3"
+      #   url: https://github.com/Limdongdang/Toy-Project
+      # - title: "카테고리 4"
+      #   url: https://github.com/Limdongdang/Toy-Project
