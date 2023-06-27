@@ -30,3 +30,13 @@ sidebar-category:
       #   url: https://github.com/Limdongdang/Toy-Project
       # - title: "카테고리 4"
       #   url: https://github.com/Limdongdang/Toy-Project
+  - title: Toy Project
+    children:
+      # - title: "##"
+      #   url: /web
+      - title: "디스코드 봇"
+        url: /discord_bot
+      # - title: "카테고리 3"
+      #   url: https://github.com/Limdongdang/Toy-Project
+      # - title: "카테고리 4"
+      #   url: https://github.com/Limdongdang/Toy-Project
