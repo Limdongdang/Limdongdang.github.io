@@ -1,42 +1,44 @@
 # main links
 main:
-  # - title: "깃허브 방문하기"
-  #   url: https://github.com/Limdongdang
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Toy Project"
-    url: https://github.com/Limdongdang/Toy-Project
-  - title: "운영 웹페이지"
-    url: 
+    # - title: "깃허브 방문하기"
+    #   url: https://github.com/Limdongdang
+    # - title: "About"
+    #   url: https://mmistakes.github.io/minimal-mistakes/about/
+    - title: 'Toy Project'
+      url: https://github.com/Limdongdang/Toy-Project
+    - title: '운영 웹페이지'
+      url:
 
 sidebar-category:
-  - title: Web
-    children:
-      # - title: "##"
-      #   url: /web
-      - title: "Web Security"
-        url: /security
-      # - title: "카테고리 3"
-      #   url: https://github.com/Limdongdang/Toy-Project
-      # - title: "카테고리 4"
-      #   url: https://github.com/Limdongdang/Toy-Project
-  - title: DB
-    children:
-      # - title: "##"
-      #   url: /web
-      - title: "SQLite"
-        url: /sqlite
-      # - title: "카테고리 3"
-      #   url: https://github.com/Limdongdang/Toy-Project
-      # - title: "카테고리 4"
-      #   url: https://github.com/Limdongdang/Toy-Project
-  - title: Toy Project
-    children:
-      # - title: "##"
-      #   url: /web
-      - title: "디스코드 봇"
-        url: /discord_bot
-      # - title: "카테고리 3"
-      #   url: https://github.com/Limdongdang/Toy-Project
-      # - title: "카테고리 4"
-      #   url: https://github.com/Limdongdang/Toy-Project
+    - title: Web
+      children:
+          # - title: "##"
+          #   url: /web
+          - title: 'Web Security'
+            url: /security
+          - title: 'Push Notification'
+            url: /push_notification
+          # - title: "카테고리 3"
+          #   url: https://github.com/Limdongdang/Toy-Project
+          # - title: "카테고리 4"
+          #   url: https://github.com/Limdongdang/Toy-Project
+    - title: DB
+      children:
+          # - title: "##"
+          #   url: /web
+          - title: 'SQLite'
+            url: /sqlite
+          # - title: "카테고리 3"
+          #   url: https://github.com/Limdongdang/Toy-Project
+          # - title: "카테고리 4"
+          #   url: https://github.com/Limdongdang/Toy-Project
+    - title: Toy Project
+      children:
+          # - title: "##"
+          #   url: /web
+          - title: '디스코드 봇'
+            url: /discord_bot
+          # - title: "카테고리 3"
+          #   url: https://github.com/Limdongdang/Toy-Project
+          # - title: "카테고리 4"
+          #   url: https://github.com/Limdongdang/Toy-Project

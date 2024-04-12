@@ -4,6 +4,8 @@ title: Firebase Web Push Notification
 toc: true
 toc_label: 'Firebase Web Push Notification'
 toc_sticky: true
+categories:
+    - push_notification
 ---
 
 웹 Firebase push notification 사용 테스트
