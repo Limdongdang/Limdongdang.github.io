@@ -7,7 +7,7 @@ main:
     - title: 'Toy Project'
       url: https://github.com/Limdongdang/Toy-Project
     - title: '운영 웹페이지'
-      url:
+      url: https://hoit.kr
 
 sidebar-category:
     - title: Web
