@@ -32,6 +32,16 @@ sidebar-category:
           #   url: https://github.com/Limdongdang/Toy-Project
           # - title: "카테고리 4"
           #   url: https://github.com/Limdongdang/Toy-Project
+    - title: C++
+      children:
+          # - title: "##"
+          #   url: /web
+          - title: 'C++'
+            url: /cpp
+          # - title: "카테고리 3"
+          #   url: https://github.com/Limdongdang/Toy-Project
+          # - title: "카테고리 4"
+          #   url: https://github.com/Limdongdang/Toy-Project
     - title: Toy Project
       children:
           # - title: "##"
